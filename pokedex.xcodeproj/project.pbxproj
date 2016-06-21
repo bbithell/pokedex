@@ -54,6 +54,9 @@
 		6A3A15F21D19969600AF9A88 /* pokedex */ = {
 			isa = PBXGroup;
 			children = (
+				6A3A16071D1996A500AF9A88 /* controller */,
+				6A3A16061D1996A100AF9A88 /* view */,
+				6A3A16051D19969D00AF9A88 /* model */,
 				6A3A15F31D19969600AF9A88 /* AppDelegate.swift */,
 				6A3A15F51D19969600AF9A88 /* ViewController.swift */,
 				6A3A15F71D19969600AF9A88 /* Main.storyboard */,
@@ -62,6 +65,27 @@
 				6A3A15FF1D19969600AF9A88 /* Info.plist */,
 			);
 			path = pokedex;
+			sourceTree = "<group>";
+		};
+		6A3A16051D19969D00AF9A88 /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = model;
+			sourceTree = "<group>";
+		};
+		6A3A16061D1996A100AF9A88 /* view */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = view;
+			sourceTree = "<group>";
+		};
+		6A3A16071D1996A500AF9A88 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
